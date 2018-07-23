@@ -1,0 +1,26 @@
+{
+  "name": "@kmiller9393/npm-sort",
+  "version": "1.0.0",
+  "description": "An example npm package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmiller9393/npm-sort.git"
+  },
+  "author": "Kurt Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmiller9393/npm-sort/issues"
+  },
+  "homepage": "https://github.com/kmiller9393/npm-sort#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
